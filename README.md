@@ -1,1 +1,1 @@
-{"enabled": true, "dead": false, "redirect": "https://facebook.com/"}
+{"enabled": true, "dead": true, "redirect": "https://facebook.com/"}
